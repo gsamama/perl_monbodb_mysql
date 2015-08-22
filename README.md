@@ -1,4 +1,4 @@
-# perl_monbodb_mysql
+# perl_mongodb_mysql
 Inserindo dados no MongoDB e MySql usando perl
 Este teste consiste em testar o tempo de insert em banco de dados MongoDb e MySql usando linguagem Perl
 Use um CSV chamado teste.csv
