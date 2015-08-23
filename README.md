@@ -12,3 +12,4 @@ Faça um arquivo de 1 milhao de linhas para que tenha um resultado de diferença
 Execute um de cada vez, só pra ter certeza que um processo não atrapalha o outro.
 
 Bons testes!
+
